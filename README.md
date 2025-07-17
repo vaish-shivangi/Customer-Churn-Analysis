@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis & Prediction Dashboard
+# 📊 Customer Churn Analysis & Prediction
 
 ## 📝 Overview
 
